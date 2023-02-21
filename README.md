@@ -188,7 +188,7 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 
 <p align="center">
 <img 
-    src="https://www.amd.com/system/files/2020-06/amd-default-social-image-1200x628.jpg" 
+    src="https://www.dsogaming.com/wp-content/uploads/2018/11/AMD-logo.jpg" 
     width="1200" 
     height="600"    
     alt="AMD Logo" >
