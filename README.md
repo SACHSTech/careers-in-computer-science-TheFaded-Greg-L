@@ -43,7 +43,7 @@
 2. [Mid Level](#mid-level)
 3. [Senior Level](#senior-level)
 
-**Section 5 - Work Cited
+**Section 5 - Work Cited**
 
 </h3>
 
