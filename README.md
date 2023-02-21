@@ -39,10 +39,10 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 
 ### This <u> [program](https://uwaterloo.ca/future-students/programs/computer-science)</u> has several academic requirements to get in. It requires minimum 90s in six Grade 12 U _and/or_ M courses including:
 
-* **Advanced Functions _(MHF4U)_**
-* **Calculus and Vectors _(MCV4U)_**
-* **Gr. 12 English _(ENG4U)_**
-* **One Other 4U Course _(Recommended: ICS3U)_**
+1. **Advanced Functions _(MHF4U)_**
+2. **Calculus and Vectors _(MCV4U)_**
+3. **Gr. 12 English _(ENG4U)_**
+4. **One Other 4U Course _(Recommended: ICS3U)_**
 
 ### Apart from Grades there are other ways to assist in getting into the program such as participating in Waterloo Contests:
 
@@ -60,6 +60,8 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 * **Linear Algebra _(MATH136 or MATH146)_**
 
 ### This program can last anywhere between **4-5 years** depending on particular pathways chosen such as <u>[co-op](https://uwaterloo.ca/future-students/co-op)</u> or additional degrees.
+
+> The University of Waterloo’s Computer Science program offers co-op with a massive network of companies. This allows students to get workplace experience and connections. Many large companies have a team or teams of engineers working on neural networks. A co-op can get first-hand experience with AI as well as get students connected to companies working on it.
 
 
 
