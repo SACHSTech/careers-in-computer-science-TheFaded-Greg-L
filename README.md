@@ -303,14 +303,27 @@ Total Experience Required: 10+ years.
 
 <center> <h1><b> Works Cited </b> </h> </center>
 
-https://www.ibm.com/topics/neural-networks
-https://cs.uwaterloo.ca/future-undergraduate-students/undergraduate-programs-and-courses/computer-science
-https://uwaterloo.ca/future-students/programs/computer-science
-https://www.glassdoor.ca/Salaries/canada-deep-learning-engineer-salary-SRCH_IL.0,6_IN3_KO7,29.htm
-https://www.payscale.com/research/CA/Skill=Deep_Learning/Salary
-https://www.simplilearn.com/tutorials/artificial-intelligence-career-resources/deep-learning-engineer
-https://www.projectpro.io/article/how-to-become-a-deep-learning-engineer/525
-https://ca.indeed.com/Deep-Learning-Engineer-jobs?vjk=a7cf6cd7777004cb
-https://www.moneris.com/
-https://www.amd.com/en
-https://www.uber.com/ca/en/
+&nbsp; &nbsp; “Co-Op.” Undergraduate Programs, 16 Feb. 2023, https://uwaterloo.ca/future-students/co-op. 
+“
+
+&nbsp; &nbsp; Computer Science.” Cheriton School of Computer Science, 23 Nov. 2021, https://cs.uwaterloo.ca/future-undergraduate-students/undergraduate-programs-and-courses/computer-science. 
+
+&nbsp; &nbsp; “Computer Science.” Undergraduate Programs, 22 July 2022, https://uwaterloo.ca/future-students/programs/computer-science. 
+
+&nbsp; &nbsp; “Debit and Credit Card Payment Processor and Point of Sale.” Moneris, https://www.moneris.com/. 
+
+&nbsp; &nbsp; Deep Learning Engineer Jobs, Employment | Indeed.com. https://www.indeed.com/q-Deep-Learning-Engineer-jobs.html. 
+
+&nbsp; &nbsp; Earn Money by Driving or Get a Ride Now | Uber Canada. https://www.uber.com/ca/en/. 
+
+&nbsp; &nbsp; ProjectPro. “How to Become a Deep Learning Engineer in 2023?” ProjectPro, ProjectPro, 27 June 2022, https://www.projectpro.io/article/how-to-become-a-deep-learning-engineer/525. 
+
+&nbsp; &nbsp; “Salary for Skill: Deep Learning.” PayScale, https://www.payscale.com/research/CA/Skill=Deep_Learning/Salary. 
+
+&nbsp; &nbsp; Salary: Deep Learning Engineer (February, 2023) | Glassdoor. https://www.glassdoor.ca/Salaries/canada-deep-learning-engineer-salary-SRCH_IL.0,6_IN3_KO7,29.htm. 
+
+&nbsp; &nbsp; Simplilearn. “How to Become a Deep Learning Engineer in 2023? Description, Skills & Salary: Simplilearn.” Simplilearn.com, Simplilearn, 8 Feb. 2023, https://www.simplilearn.com/tutorials/artificial-intelligence-career-resources/deep-learning-engineer. 
+
+&nbsp; &nbsp; Together We Advance Cloud Security | AMD. https://www.amd.com/en/. 
+
+&nbsp; &nbsp; “What Are Neural Networks?” IBM, https://www.ibm.com/topics/neural-networks. 
