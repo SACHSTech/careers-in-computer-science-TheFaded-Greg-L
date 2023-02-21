@@ -153,4 +153,44 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 
 ***
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<center> <h1><b> Possible Jobs </b> </h> </center>
+
+### Deep Learning Engineering positions aren't too common. However, their expertise can be applied to a Machine Learnining Engineer's position as well. Many companies look for individuals who are persuing this field as they try to get ahead of the competition. Currently this position is in hot demand with the emergence of AI systems such as ChatGPT and Bard.
+
+## **Entry Level**
+
+### Company
+> <u>[AMD](https://www.amd.com/en)</u> (Advanced Micro Devices Inc.)
+
+<p align="center">
+<img 
+    src="https://www.amd.com/system/files/2020-06/amd-default-social-image-1200x628.jpg" 
+    width="1200" 
+    height="600"    
+    alt="AMD Logo" >
+<p/>
+
+### Position
+> Machine Learning Software Engineer (Co-op)
+
+### Description
+> The major objective of this internship is to develop and support the MLSE drivers while you can try and learn API and write some samples.
+> Working in our dynamic team of engineers offers a tremendous professional development opportunity to:
+>* Develop your technical abilities in a very specialized and rewarding field,
+>* Become a proactive team member that shows initiative and innovation,
+>* Learn to communicate effectively in a professional team environment,
+>* Network with like-minded, experienced engineers,
+>* Contribute novel and valuable ideas for the benefit of the team
+
+### Salary
+> *Unknown*
+
+### Location
+> Markham ON
+
+### Requirements
+> We are looking for a Long-Term Co-op student interested in the described above work working on the runtime (RT) side of the drivers.
 
