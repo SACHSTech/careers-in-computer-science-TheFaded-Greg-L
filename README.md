@@ -32,6 +32,19 @@
 3. [First Year Students](#first-year-students)
 4. [Program Length and Co-op](#program-length-and-co-op)
 
+**Section 3 - Skills:**
+
+1. [Technical Skills](#technical-skills)
+2. [Non-technical Skills](#non-technical-skills)
+
+**Section 4 - Possible Jobs:**
+
+1. [Entry Level](#entry-level)
+2. [Mid Level](#mid-level)
+3. [Senior Level](#senior-level)
+
+**Section 5 - Work Cited
+
 </h3>
 
 <p>&nbsp;</p>
@@ -93,6 +106,8 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
     alt="University of Waterloo" >
 <p/>
 
+***
+
 ## **Requirements**
 
 ### This <u> [program](https://uwaterloo.ca/future-students/programs/computer-science)</u> has several academic requirements to get in. It requires minimum 90s in six Grade 12 U _and/or_ M courses including:
@@ -108,6 +123,8 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 * **Canadian Senior Mathematics Contest _(CSMC)_**
 * **Euclid Mathematics Contest**
 
+***
+
 ## **First Year Students**
 
 ### Students in their first year can expect to take courses such as:
@@ -118,6 +135,8 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 * **Calculus 2 _(MATH128, MATH138, or MATH148)_**
 * **Algebra _(MATH135 or MATH145)_**
 * **Linear Algebra _(MATH136 or MATH146)_**
+
+***
 
 ## **Program Length and Co-op**
 
