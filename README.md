@@ -41,6 +41,7 @@
 
 <center> <h1><b> Description </b> </h> </center>
 
+
 ## **About**
 A deep learning engineer falls under a branch of machine learning engineering that deals with <u>[artificial neural networks](https://www.ibm.com/topics/neural-networks)</u>. These neural networks are used to process data in a way similar to humans. Because the human brain is so complex, a machine that takes advantage of a similar process as a brain will have a significant advantage over other machine learning models. 
 
@@ -55,10 +56,12 @@ A deep learning engineer falls under a branch of machine learning engineering th
 
 ***
 
+
 ## **Duties and Responsibilities**
 Deep learning engineers are required to know how to deal with this complex neural network in terms of algorithms and technology. They are responsible not only for understanding these neural networks but also for training them to understand correctly. Compared to a standard machine learning engineer, a neural network engineer has more of an application in terms of what the general public uses. For instance, a deep learning engineer works with software developers to develop a neural network AI that detects images. This is different from a machine learning engineer who works with data scientists to process large amounts of data via complex AI-related algorithms.
 
 ***
+
 
 ## **Salary Range**
 
@@ -123,3 +126,18 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 > The University of Waterloo’s Computer Science program offers co-op with a massive network of companies. This allows students to get workplace experience and connections. Many large companies have a team or teams of engineers working on neural networks. A co-op can get first-hand experience with AI as well as get students connected to companies working on it.
 
 ***
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<center> <h1><b> Skills </b> </h> </center>
+
+### Being a Deep Learning Engineer requires many skills, both technical and non-technical. For most jobs, the main thing that is required is experience. Being able to collaborate and work with a team is more important than any technical skill, especially since the development of AI is so rapid.
+
+## **Technical Skills**
+
+* **Thorough understanding and skills relating to machine learning, data science, mathematics, algorithmic coding, and software engineering.**
+* **Proficient knowledge in these programming languages: Python, Matlab, Linux, and C++.**
+* **Able to understand AI resources such as TensorFlow, or PyTorch.**
+* **Ability to use cloud-based technologies such as AWS, GCP, or Azure.**
+
