@@ -18,5 +18,7 @@ A deep learning engineer falls under a branch of machine learning engineering th
     alt="Neural Network Brain" >
 <p/>
 
+## **Duties and Responsibilities**
+Deep learning engineers are required to know how to deal with this complex neural network in terms of algorithms and technology. They are responsible not only for understanding these neural networks but also for training them to understand correctly. Compared to a standard machine learning engineer, a neural network engineer has more of an application in terms of what the general public uses. For instance, a deep learning engineer works with software developers to develop a neural network AI that detects images. This is different from a machine learning engineer who works with data scientists to process large amounts of data via complex AI-related algorithms.
 
 
