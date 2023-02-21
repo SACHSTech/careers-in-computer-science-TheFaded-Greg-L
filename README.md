@@ -141,3 +141,16 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 * **Able to understand AI resources such as TensorFlow, or PyTorch.**
 * **Ability to use cloud-based technologies such as AWS, GCP, or Azure.**
 
+***
+
+## **Non-technical Skills**
+
+* **Patience (AI takes a while to train)**
+* **Communication Skills**
+* **Collaboration Skills**
+* **Leadership Skills**
+* **Independent Worker Skills**
+
+***
+
+
