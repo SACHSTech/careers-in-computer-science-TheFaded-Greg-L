@@ -215,7 +215,7 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 ### Requirements
 > We are looking for a Long-Term Co-op student interested in the described above work working on the runtime (RT) side of the drivers.
 
-Total Experience Required: None.
+**Total Experience Required: None.**
 
 
 ***
@@ -252,7 +252,7 @@ Total Experience Required: None.
 >* Modern machine learning algorithms (e.g., tree-based techniques, supervised, deep, or probabilistic learning)
 >* Machine Learning Software such as Tensorflow/Pytorch, Caffe, Scikit-Learn, or Spark MLLib
 
-Total Experience Required: 2-5 years.
+**Total Experience Required: 2-5 years.**
 
 ***
 
@@ -297,7 +297,7 @@ Total Experience Required: 2-5 years.
 >* Highly proficient in leading large-scale projects or significant project steps and communicating progress/approach with technical/non-technical peers/clients and leaders.
 >* Proficiency in payment systems and the merchant acquiring business is an asset
 
-Total Experience Required: 10+ years.
+**Total Experience Required: 10+ years.**
 
 ***
 
