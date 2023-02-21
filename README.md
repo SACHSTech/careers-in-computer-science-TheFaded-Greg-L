@@ -18,8 +18,12 @@ A deep learning engineer falls under a branch of machine learning engineering th
     alt="Neural Network Brain" >
 <p/>
 
+***
+
 ## **Duties and Responsibilities**
 Deep learning engineers are required to know how to deal with this complex neural network in terms of algorithms and technology. They are responsible not only for understanding these neural networks but also for training them to understand correctly. Compared to a standard machine learning engineer, a neural network engineer has more of an application in terms of what the general public uses. For instance, a deep learning engineer works with software developers to develop a neural network AI that detects images. This is different from a machine learning engineer who works with data scientists to process large amounts of data via complex AI-related algorithms.
+
+***
 
 ## **Education**
 
@@ -39,6 +43,23 @@ The education pathway to becoming a Deep Learning Engineer varies extensively. O
 * **Calculus and Vectors _(MCV4U)_**
 * **Gr. 12 English _(ENG4U)_**
 * **One Other 4U Course _(Recommended: ICS3U)_**
+
+### Apart from Grades there are other ways to assist in getting into the program such as participating in Waterloo Contests:
+
+* **Canadian Computing Competition _(CCC)_**
+* **Canadian Senior Mathematics Contest _(CSMC)_**
+* **Euclid Mathematics Contest**
+
+### Students in their first year can expect to take courses such as:
+
+* **Introduction to Computer Science/Designing Function Programs _(CS115, CS135 or CS145)_**
+* **Elementary Algorith Design and Data Abstraction _(CS136 or CS146)_**
+* **Calculus 1 _(MATH127, MATH137 or MATH147)_**
+* **Calculus 2 _(MATH128, MATH138, or MATH148)_**
+* **Algebra _(MATH135 or MATH145)_**
+* **Linear Algebra _(MATH136 or MATH146)_**
+
+### This program can last anywhere between **4-5 years** depending on particular pathways chosen such as <u>[co-op](https://uwaterloo.ca/future-students/co-op)</u> or additional degrees.
 
 
 
